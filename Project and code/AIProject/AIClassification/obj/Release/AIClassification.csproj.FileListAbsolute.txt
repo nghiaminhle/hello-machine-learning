@@ -1,0 +1,20 @@
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIClassification\bin\Release\AIClassification.dll
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIClassification\bin\Release\AIClassification.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIClassification\obj\Release\ResolveAssemblyReference.cache
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIClassification\obj\Release\AIClassification.dll
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIClassification\obj\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIClassification\bin\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIClassification\bin\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIClassification\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIClassification\obj\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIClassification\obj\Release\AIClassification.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIClassification\bin\Release\AIClassification.dll
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIClassification\bin\Release\AIClassification.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIClassification\obj\Release\ResolveAssemblyReference.cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIClassification\obj\Release\AIClassification.dll
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIClassification\obj\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIClassification\bin\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIClassification\bin\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIClassification\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIClassification\obj\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIClassification\obj\Release\AIClassification.pdb

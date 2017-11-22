@@ -1,0 +1,56 @@
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Release\AIProject.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Release\AIProject.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Release\AIClassification.dll
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Release\AIClassification.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\ResolveAssemblyReference.cache
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\Window1.baml
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\Window1.g.cs
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\App.g.cs
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\AIProject_MarkupCompile.cache
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\AIProject.g.resources
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\AIProject.Properties.Resources.resources
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\AIProject.csproj.GenerateResource.Cache
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\AIProject.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Release\AIProject.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIProject.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIProject.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\Window1.baml
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\Window1.g.cs
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\App.g.cs
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject_MarkupCompile.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.g.resources
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.Properties.Resources.resources
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.csproj.GenerateResource.Cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIProject.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIProject.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIClassification.dll
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Release\AIClassification.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\Window1.baml
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\Window1.g.cs
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\App.g.cs
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject_MarkupCompile.cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.g.resources
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.Properties.Resources.resources
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Release\AIProject.csproj.GenerateResource.Cache
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\bin\Release\AIProject.exe
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\bin\Release\AIProject.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\bin\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\bin\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\Window1.baml
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\Window1.g.cs
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\App.g.cs
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\AIProject_MarkupCompile.cache
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\AIProject.g.resources
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\AIProject.Properties.Resources.resources
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\AIProject.csproj.GenerateResource.Cache
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\AIProject.exe
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\AIProject\obj\Release\AIProject.pdb

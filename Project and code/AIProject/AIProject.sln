@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIProject", "AIProject\AIProject.csproj", "{3E49D0EE-6995-438A-A007-C52AFC014CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIClassification", "AIClassification\AIClassification.csproj", "{CA83BFC7-7152-491C-927E-3F1EECDFA0F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7CAD2598-B1DB-4495-AD1B-F5C58C839983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E49D0EE-6995-438A-A007-C52AFC014CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E49D0EE-6995-438A-A007-C52AFC014CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E49D0EE-6995-438A-A007-C52AFC014CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E49D0EE-6995-438A-A007-C52AFC014CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA83BFC7-7152-491C-927E-3F1EECDFA0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA83BFC7-7152-491C-927E-3F1EECDFA0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA83BFC7-7152-491C-927E-3F1EECDFA0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA83BFC7-7152-491C-927E-3F1EECDFA0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAD2598-B1DB-4495-AD1B-F5C58C839983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAD2598-B1DB-4495-AD1B-F5C58C839983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAD2598-B1DB-4495-AD1B-F5C58C839983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAD2598-B1DB-4495-AD1B-F5C58C839983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

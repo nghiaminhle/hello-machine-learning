@@ -1,0 +1,54 @@
+E:\My Knowledge\CSharp\AIProject\AIProject\bin\Debug\AIProject.exe
+E:\My Knowledge\CSharp\AIProject\AIProject\bin\Debug\AIProject.pdb
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\ResolveAssemblyReference.cache
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\Window1.baml
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\Window1.g.cs
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\App.g.cs
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\AIProject_MarkupCompile.cache
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\AIProject.g.resources
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\AIProject.Properties.Resources.resources
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\AIProject.csproj.GenerateResource.Cache
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\AIProject.exe
+E:\My Knowledge\CSharp\AIProject\AIProject\obj\Debug\AIProject.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\AIProject.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\AIProject.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Debug\AIProject.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Debug\AIProject.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Debug\AIClassification.dll
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\bin\Debug\AIClassification.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\ResolveAssemblyReference.cache
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\Window1.baml
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\Window1.g.cs
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\App.g.cs
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\AIProject_MarkupCompile.cache
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\AIProject.g.resources
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\AIProject.Properties.Resources.resources
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\AIProject\obj\Debug\AIProject.csproj.GenerateResource.Cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIProject.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIProject.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIClassification.dll
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\Window1.baml
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\Window1.g.cs
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\App.g.cs
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject_MarkupCompile.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.g.resources
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.Properties.Resources.resources
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.csproj.GenerateResource.Cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIProject.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIProject.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIClassification.dll
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\bin\Debug\AIClassification.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\Window1.baml
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\Window1.g.cs
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\App.g.cs
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject_MarkupCompile.cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.g.resources
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.Properties.Resources.resources
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.csproj.GenerateResource.Cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\AIProject\obj\Debug\AIProject.pdb

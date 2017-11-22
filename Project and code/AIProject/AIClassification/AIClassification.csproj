@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CA83BFC7-7152-491C-927E-3F1EECDFA0F1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AIClassification</RootNamespace>
+    <AssemblyName>AIClassification</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="C45.cs" />
+    <Compile Include="Case.cs" />
+    <Compile Include="Classification.cs" />
+    <Compile Include="Comparer\AgeComparer.cs" />
+    <Compile Include="AttributeDetail.cs" />
+    <Compile Include="Comparer\CapitalGainComparer.cs" />
+    <Compile Include="Comparer\CapitalLossComparer.cs" />
+    <Compile Include="Comparer\EduNumComparer.cs" />
+    <Compile Include="Comparer\FnlwgtComparer.cs" />
+    <Compile Include="Comparer\HoursPWComparer.cs" />
+    <Compile Include="Condition.cs" />
+    <Compile Include="ContinousHandler.cs" />
+    <Compile Include="Data.cs" />
+    <Compile Include="DiscreteIndex.cs" />
+    <Compile Include="EnumDataTypes.cs" />
+    <Compile Include="FileProcessing.cs" />
+    <Compile Include="Interfaces\IC45.cs" />
+    <Compile Include="Interfaces\ICase.cs" />
+    <Compile Include="Interfaces\IClassification.cs" />
+    <Compile Include="Interfaces\ICondition.cs" />
+    <Compile Include="Interfaces\IData.cs" />
+    <Compile Include="Interfaces\IDiscreteIndex.cs" />
+    <Compile Include="Interfaces\IFile.cs" />
+    <Compile Include="Interfaces\INode.cs" />
+    <Compile Include="Interfaces\IProbalityTable.cs" />
+    <Compile Include="Interfaces\IStatisticObject.cs" />
+    <Compile Include="Knowledge.cs" />
+    <Compile Include="KnowledgeC45.cs" />
+    <Compile Include="KnowledgeID3.cs" />
+    <Compile Include="KnowledgeNaiveBayes.cs" />
+    <Compile Include="NaiveBayes.cs" />
+    <Compile Include="NBTree.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="NodeID3.cs" />
+    <Compile Include="NodeIENumerator.cs" />
+    <Compile Include="ProbalityTable.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReducedProbalityTable.cs" />
+    <Compile Include="StatictisObject.cs" />
+    <Compile Include="TreeID3.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

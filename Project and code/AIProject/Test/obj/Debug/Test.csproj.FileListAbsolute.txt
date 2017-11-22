@@ -1,0 +1,30 @@
+E:\My Knowledge\CSharp\AIProject\Test\obj\Debug\ResolveAssemblyReference.cache
+E:\My Knowledge\CSharp\AIProject\Test\bin\Debug\Test.exe
+E:\My Knowledge\CSharp\AIProject\Test\bin\Debug\Test.pdb
+E:\My Knowledge\CSharp\AIProject\Test\bin\Debug\AIClassification.dll
+E:\My Knowledge\CSharp\AIProject\Test\bin\Debug\AIClassification.pdb
+E:\My Knowledge\CSharp\AIProject\Test\obj\Debug\Test.exe
+E:\My Knowledge\CSharp\AIProject\Test\obj\Debug\Test.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\obj\Debug\Test.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\obj\Debug\Test.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Debug\Test.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Debug\Test.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Debug\AIClassification.dll
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Debug\AIClassification.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Debug\Test.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Debug\Test.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Debug\AIClassification.dll
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Debug\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\obj\Debug\Test.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\obj\Debug\Test.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Debug\Test.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Debug\Test.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Debug\AIClassification.dll
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Debug\AIClassification.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\obj\Debug\Test.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\obj\Debug\Test.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\obj\Debug\Test.exe
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\obj\Debug\Test.pdb

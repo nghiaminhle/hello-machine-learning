@@ -1,0 +1,32 @@
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Release\Test.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Release\Test.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Release\AIClassification.dll
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\bin\Release\AIClassification.pdb
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\obj\Release\ResolveAssemblyReference.cache
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\obj\Release\Test.exe
+E:\My Knowledge\CSharp\Classification\5_4_2010\AIProject\Test\obj\Release\Test.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Release\Test.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Release\Test.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\bin\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\obj\Release\Test.exe
+C:\Users\Phuongxg\Desktop\29\Project and code\AIProject\Test\obj\Release\Test.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Release\Test.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Release\Test.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Release\AIClassification.dll
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\bin\Release\AIClassification.pdb
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\obj\Release\Test.exe
+C:\Users\trunghieu\Desktop\29\Project and code\AIProject\Test\obj\Release\Test.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\bin\Release\Test.exe
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\bin\Release\Test.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\bin\Release\AIClassification.dll
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\bin\Release\AIClassification.pdb
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\obj\Release\Test.exe
+C:\Users\Phuongxg\Desktop\291\Project and code\AIProject\Test\obj\Release\Test.pdb
+E:\My Knowledge\CSharp\Classification\Completed Project\Project and code\AIProject\Test\obj\Release\Test.exe
+E:\My Knowledge\CSharp\Classification\Completed Project\Project and code\AIProject\Test\obj\Release\Test.pdb
+D:\Knowledge\My Knowledge\CSharp\Classification\Completed Project\Project and code\AIProject\Test\obj\Release\Test.exe
+D:\Knowledge\My Knowledge\CSharp\Classification\Completed Project\Project and code\AIProject\Test\obj\Release\Test.pdb
